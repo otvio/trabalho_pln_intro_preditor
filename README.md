@@ -1,4 +1,5 @@
-# trabalho_pln_intro_preditor
+# Preditor do Nível Escolar Usando Complexidade Textual
+## Trabalho apresentado na Disciplina de Introdução à PLN.
 Este é o código desenvolvido para o Trabalho de Introdução a PLN para predizer classes escolares usando métricas de complexidade textual
 
 Para usá-lo execute no terminal usando o Python3
